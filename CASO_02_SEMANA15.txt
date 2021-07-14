@@ -1,0 +1,43 @@
+Iniciamos partida: CASO_02_SEMANA15 
+Si hay derecha entonces
+Girar hacia la derecha
+Finsi 
+avanzar 
+Girar hacia la izquierda
+avanzar 
+Girar hacia la derecha
+avanzar 
+avanzar 
+Girar hacia la izquierda 
+avanzar 
+Girar hacia la derecha 
+avanzar 
+Si hay izquierda entonces
+Girar hacia la izquierda
+Finsi 
+avanzar 
+Si hay izquierda entonces
+Girar a la izquierda
+sino 
+Girar a la derecha
+Finsi 
+avanzar 
+Si hay derecha entonces
+Girar a la derecha 
+sino 
+Girar hacia la izquierda
+avanzar 
+Finsi
+Si hay derecha entonces
+Girar a la derecha - avanzar 
+Sino 
+Girar a la izquierda 
+avanzar 
+Finsi
+Si hay derecha entonces
+Girar a la derecha
+avanzar 
+si 
+Girar a la izquierda
+avanzar
+Finsi

@@ -1,0 +1,29 @@
+Iniciamos partida: CASO_01_SEMANA15
+Avanzar 
+Avanzar 
+Girar a la izquierda 
+avanzar 
+Si hay izquierda entonces
+Girar a la izquierda
+Finsi
+avanzar 
+Girar a al izquierda 
+avanzar 
+Girar a la derecha 
+avanzar
+Girar a la derecha 
+avanzar 
+Girar a la derecha 
+avanzar 
+Si hay izquierda entonces 
+Girar a la izquierda
+Finsi
+avanzar 
+Girar a al izquierda 
+avanzar 
+Girar a la derecha 
+avanzar 
+Girar a la derecha 
+avanzar
+Girar a la izquierda 
+avanzar
